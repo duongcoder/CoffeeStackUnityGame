@@ -1,0 +1,12 @@
+1. Tạo LineSegment bao gồm các thành phần:
+    Cube -> Dùng để làm road
+    Lanes -> Khu vực chia ra các lane trên road
+    CupSpawns -> Nơi Spawn ra các cup để nhặt
+    ObstacleSpawns -> Nơi Spawn ra chỗ để delete các cup (bẫy)
+    Player -> người chơi
+
+2. Tạo các prefabs cup để Spawn ra vị trí
+
+3. Viết script điều khiển
+    CupCollector -> Thực hiện việc lấy các Cup trên road
+    LaneMoverNew -> Thực hiện việc di chuyển của Player & di chuyển giữa các lanes.
