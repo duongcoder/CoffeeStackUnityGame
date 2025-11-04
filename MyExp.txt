@@ -10,3 +10,6 @@
 3. Viết script điều khiển
     CupCollector -> Thực hiện việc lấy các Cup trên road
     LaneMoverNew -> Thực hiện việc di chuyển của Player & di chuyển giữa các lanes.
+
+4. Setup Camera Follow
+    Dùng Cinemachine để setup camera follow theo Player
